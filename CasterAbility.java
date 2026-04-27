@@ -1,7 +1,6 @@
 /**
  * Interface for characters that can cast magical spells.
  * Provides spell casting capabilities and mana management.
- * 
  */
 public interface CasterAbility {
     /**
