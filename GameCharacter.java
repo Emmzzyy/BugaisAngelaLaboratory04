@@ -2,8 +2,6 @@
  * Abstract base class for all game characters in the RPG system.
  * Provides common functionality and defines the contract that all character classes must implement.
  * 
- * @author Lab 04
- * @version 1.0
  */
 public abstract class GameCharacter {
     private String name;
