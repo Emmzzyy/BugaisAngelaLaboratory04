@@ -2,8 +2,6 @@
  * Interface for characters that can defend and block attacks.
  * Provides defensive capabilities and rating information.
  * 
- * @author Lab 04
- * @version 1.0
  */
 public interface Defendable {
     /**
